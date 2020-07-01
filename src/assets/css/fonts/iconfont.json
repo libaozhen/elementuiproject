@@ -1,0 +1,30 @@
+{
+  "id": "1916491",
+  "name": "element",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1526274",
+      "name": "锁 1",
+      "font_class": "lock",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "9509954",
+      "name": "用户",
+      "font_class": "user",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "15282671",
+      "name": "盾牌",
+      "font_class": "verify",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    }
+  ]
+}
